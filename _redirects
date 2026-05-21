@@ -1,1 +1,2 @@
-
+# Redireccionamiento www → sin www (activar cuando tengas dominio custom)
+# https://www.legday.com/*  https://legday.com/:splat  301
