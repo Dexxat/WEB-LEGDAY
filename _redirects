@@ -1,7 +1,1 @@
-# Redireccionamientos para Cloudflare Pages
 
-# Fuerza index.html como punto de entrada (SPA fallback)
-/*    /index.html   200
-
-# Ejemplo: www → sin www (activar si se configura dominio custom)
-# https://www.legday.com/*  https://legday.com/:splat  301
