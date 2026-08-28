@@ -9,3 +9,8 @@ __pycache__/
 # Editor
 .vscode/
 .idea/
+
+# Archivos sueltos de trabajo (no forman parte del sitio)
+/44ad0c0a-a591-4017-8397-238bd96ec7a9.avif
+/LEGDAY_MODALIDADES:ARANCELES 2026.pdf
+/original-91f4c9c626984f1272ef103d8927c3f7.webp
