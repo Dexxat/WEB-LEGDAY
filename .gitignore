@@ -1,0 +1,11 @@
+# Python virtualenv (local, regenerate with README-image-process.md)
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/

@@ -1,0 +1,19 @@
+/*
+  # Seguridad básica
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+  # Cache para activos estáticos
+  Cache-Control: public, max-age=3600
+
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/_headers
+  Cache-Control: no-store
+
+/_redirects
+  Cache-Control: no-store
