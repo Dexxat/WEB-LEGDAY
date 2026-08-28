@@ -451,18 +451,18 @@ nav.scrolled {
   background: radial-gradient(circle, rgba(167,139,250,.18) 0%, transparent 70%);
   pointer-events: none;
 }
-.ready-inner { position: relative; max-width: 680px; margin: 0 auto; }
+.ready-inner { position: relative; max-width: 820px; margin: 0 auto; }
 .ready h2 {
   font-family: var(--serif);
-  font-size: clamp(40px, 4.5vw, 60px);
-  font-weight: 300; line-height: 1.1;
-  color: var(--ink); margin-bottom: 18px;
+  font-size: clamp(60px, 9vw, 120px);
+  font-weight: 300; line-height: 1.02;
+  color: var(--ink); margin-bottom: 28px;
 }
 .ready h2 em { font-style: italic; color: var(--violet); }
 .ready p {
-  font-size: 14.5px; color: var(--muted);
-  line-height: 1.85; font-weight: 300;
-  max-width: 480px; margin: 0 auto 32px;
+  font-size: 29px; color: var(--muted);
+  line-height: 1.6; font-weight: 300;
+  max-width: 640px; margin: 0 auto 40px;
 }
 .ready-cta {
   display: inline-block;
@@ -582,14 +582,14 @@ nav.scrolled {
 .contacto-content .label { color: var(--violet3); }
 .contacto-title {
   font-family: var(--serif);
-  font-size: clamp(40px, 4.5vw, 60px);
-  font-weight: 300; line-height: 1.05;
-  color: #fff; margin-bottom: 18px;
+  font-size: clamp(60px, 9vw, 120px);
+  font-weight: 300; line-height: 1.02;
+  color: #fff; margin-bottom: 28px;
 }
 .contacto-title em { font-style: italic; color: var(--violet3); }
 .contacto-sub {
-  font-size: 14.5px; color: rgba(255,255,255,.7);
-  line-height: 1.85; font-weight: 300; max-width: 460px;
+  font-size: 29px; color: rgba(255,255,255,.7);
+  line-height: 1.6; font-weight: 300; max-width: 640px;
 }
 
 /* ── FOOTER ──────────────────────────────────────── */
