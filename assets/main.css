@@ -582,14 +582,14 @@ nav.scrolled {
 .contacto-content .label { color: var(--violet3); }
 .contacto-title {
   font-family: var(--serif);
-  font-size: clamp(60px, 9vw, 120px);
-  font-weight: 300; line-height: 1.02;
-  color: #fff; margin-bottom: 28px;
+  font-size: clamp(42px, 6.3vw, 84px);
+  font-weight: 300; line-height: 1.04;
+  color: #fff; margin-bottom: 20px;
 }
 .contacto-title em { font-style: italic; color: var(--violet3); }
 .contacto-sub {
-  font-size: 29px; color: rgba(255,255,255,.7);
-  line-height: 1.6; font-weight: 300; max-width: 640px;
+  font-size: 20px; color: rgba(255,255,255,.7);
+  line-height: 1.65; font-weight: 300; max-width: 560px;
 }
 
 /* ── FOOTER ──────────────────────────────────────── */
